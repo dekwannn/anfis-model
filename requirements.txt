@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+opencv-python-headless
+scikit-image
+scikit-learn
+joblib
+tflite-runtime==2.15.0
